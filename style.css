@@ -1,0 +1,29 @@
+.copy_right_footer{
+    text-shadow: 5px 5px 5px rgb(83, 46, 11);
+    position: fixed;
+    bottom: 0;
+    background-color: goldenrod;
+    width: 100%;
+    color: white;
+    font-family: monospace;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 28px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+i{
+    font-size: 14px;
+    color: rgb(133, 11, 72);
+    font-family: 'Comfortaa', cursive;
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/43/f5/1f/43f51f306b3fea15fc18dc66737002f4.jpg");
+    background-size: cover;
+}
+canvas{
+    border: 10px double rgb(126, 25, 75);
+    border-radius: 20px;
+    box-shadow: 6px 10px 5px rgb(29, 28, 28);
+}
